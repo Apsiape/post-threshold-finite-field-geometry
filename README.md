@@ -80,6 +80,10 @@ This repository includes `CITATION.cff` and `.zenodo.json`. The GitHub-to-Zenodo
 
 Live GitHub repository: `https://github.com/Apsiape/post-threshold-finite-field-geometry`.
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19582653.svg)](https://doi.org/10.5281/zenodo.19582653)
+
+Archived release DOI for `v0.1.0`: `10.5281/zenodo.19582653`.
+
 ## Repository map
 
 - `docs/` — public-facing overview, theorem ledger, main results, proof guide, open problems, correction log, reproducibility, and Zenodo instructions.
