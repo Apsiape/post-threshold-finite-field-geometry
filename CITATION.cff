@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+title: "post-threshold-finite-field-geometry"
+message: "If you use this repository, please cite the archived release and the associated theorem package."
+type: software
+version: "0.1.0"
+license: MIT
+authors:
+  - family-names: "Douglas"
+    given-names: "Seth"
+    email: "seth.douglas@gmail.com"
+abstract: >-
+  Frozen public milestone repository for the odd-prime / post-threshold
+  finite-field geometry theorem program. The package records proved results,
+  computation-supported evidence, withdrawn claims, exact constants, proof
+  notes, and reproducibility scripts for the current F_3^5 frontier.
+keywords:
+  - finite fields
+  - additive combinatorics
+  - local versus global structure
+  - threshold rigidity
+  - symbolic verification
+  - reproducible mathematics

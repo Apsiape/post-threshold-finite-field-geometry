@@ -1,0 +1,20 @@
+{
+  "title": "post-threshold-finite-field-geometry",
+  "description": "Frozen public milestone repository for the odd-prime / post-threshold finite-field geometry theorem program. The repository records the current theorem ledger, corrected claims, exact solved subclasses on F_3^5, proof notes, and SymPy-based reproducibility scripts.",
+  "license": "MIT",
+  "upload_type": "software",
+  "creators": [
+    {
+      "name": "Douglas, Seth"
+    }
+  ],
+  "keywords": [
+    "finite fields",
+    "threshold rigidity",
+    "local versus global structure",
+    "symbolic verification",
+    "reproducible mathematics"
+  ],
+  "version": "0.1.0",
+  "related_identifiers": []
+}
