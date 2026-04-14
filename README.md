@@ -78,6 +78,8 @@ Detailed instructions are in `docs/REPRODUCIBILITY.md`.
 
 This repository includes `CITATION.cff` and `.zenodo.json`. The GitHub-to-Zenodo connection and release creation are manual steps. See `docs/ZENODO_RELEASE_INSTRUCTIONS.md` for the exact sequence.
 
+Live GitHub repository: `https://github.com/Apsiape/post-threshold-finite-field-geometry`.
+
 ## Repository map
 
 - `docs/` — public-facing overview, theorem ledger, main results, proof guide, open problems, correction log, reproducibility, and Zenodo instructions.

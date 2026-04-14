@@ -8,6 +8,7 @@ authors:
   - family-names: "Douglas"
     given-names: "Seth"
     email: "seth.douglas@gmail.com"
+repository-code: "https://github.com/Apsiape/post-threshold-finite-field-geometry"
 abstract: >-
   Frozen public milestone repository for the odd-prime / post-threshold
   finite-field geometry theorem program. The package records proved results,

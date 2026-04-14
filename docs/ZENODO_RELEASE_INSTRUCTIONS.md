@@ -4,14 +4,13 @@ These steps are **manual**. This repository can prepare metadata, but it cannot 
 
 ## Before you start
 
-1. Fill in `CITATION.cff` author metadata.
-2. Fill in `.zenodo.json` creator metadata.
-3. Confirm the final release tag and version string.
-4. Verify that the theorem-status documents match the intended frozen release.
+1. Confirm that `CITATION.cff` and `.zenodo.json` carry the intended public metadata.
+2. Confirm the final release tag and version string.
+3. Verify that the theorem-status documents match the intended frozen release.
 
 ## Manual GitHub + Zenodo workflow
 
-1. Create or confirm the public GitHub repository `post-threshold-finite-field-geometry`.
+1. Create or confirm the public GitHub repository `Apsiape/post-threshold-finite-field-geometry`.
 2. Push the full repository contents to GitHub.
 3. Sign in to Zenodo and connect your GitHub account.
 4. In Zenodo's GitHub settings, enable archiving for this repository.
